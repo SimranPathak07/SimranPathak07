@@ -1,12 +1,11 @@
-## Hi I'm Simran 👋
-
+# Hi I'm Simran 👋
 
 - 🔭 I’m a Btech Computer Science final year student  ...
 - 🌱 I’m currently into web development, machine learning and deep learning ...
 - 👯 I’m currently learning Data analytics....
-- 📫 Connect with me:simranpathak07312@gmail.com
+- 📫 Connect with me:  simranpathak07312@gmail.com
 
-- # 💫 About Me:
+# 💫 About Me:
 Simran Pathak<br>Computer Science Student | Web Development Enthusiast | ML & DL Learner<br> <br>I am a computer science student with a strong drive to learn and explore new technology stacks.<br>Currently, I am focused on enhancing my skills in web development, machine learning, and deep learning. <br>I am always eager to connect with like-minded individuals, collaborate on projects, and contribute to open-source initiatives. <br>My goal is to continuously grow my technical expertise and stay at the forefront of emerging technologies.
 
 
